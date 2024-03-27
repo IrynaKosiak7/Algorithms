@@ -1,4 +1,6 @@
-.util.Objects;
+package de.telran._19_03.homework;
+
+import java.util.Objects;
 
 public class Boat {
     private int size;
